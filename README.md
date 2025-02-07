@@ -35,8 +35,6 @@ In this project, we analyze the sentiment of financial news and social media pos
 - Incorporated new sentiment data (from recent news) to make predictions about stock prices based on current sentiment.
 
 ## Citation:
-If you use this dataset in your work, please cite it as follows:
-
 **Ankur Sinha, "Sentiment Analysis for Financial News," Kaggle, 2019.** [Online]. Available: https://www.kaggle.com/datasets/ankurzing/sentiment-analysis-for-financial-news
 
 ## Installation:
