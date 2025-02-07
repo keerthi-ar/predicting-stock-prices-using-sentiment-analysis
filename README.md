@@ -75,5 +75,5 @@ pip install -r requirements.txt
 ### Run the analysis:
 
 ```bash
-python predicting_stock_prices_using_sentiment_analysis.ipynb
+jupyter notebook predicting_stock_prices_using_sentiment_analysis.ipynb
 ```
