@@ -39,9 +39,6 @@ If you use this dataset in your work, please cite it as follows:
 
 **Ankur Sinha, "Sentiment Analysis for Financial News," Kaggle, 2019.** [Online]. Available: https://www.kaggle.com/datasets/ankurzing/sentiment-analysis-for-financial-news
 
-## Acknowledgments:
-Thanks to **Kaggle** for providing access to this dataset and to the **Hugging Face** community for the **Transformers** library used for sentiment analysis.
-
 ## Installation:
 To run this project on your local machine, you'll need to install the following libraries:
 
